@@ -1,0 +1,1 @@
+(self.webpackChunkdaoswap_docs=self.webpackChunkdaoswap_docs||[]).push([[612],{9625:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/zh-cn/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/zh-cn/blog/tags/docusaurus"}')}}]);
