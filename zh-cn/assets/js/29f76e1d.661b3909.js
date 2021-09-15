@@ -1,1 +1,0 @@
-(self.webpackChunkdaoswap_docs=self.webpackChunkdaoswap_docs||[]).push([[251],{4381:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/zh-cn/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/zh-cn/blog/tags/hello"}')}}]);
