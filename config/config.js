@@ -3,6 +3,7 @@ export default {
   hash: true,
   title: 'Daoswap Docs',
   mode: 'site',
+  base: '/',
   favicon: '/favicon.ico',
   logo: '/logo.png',
   outputPath: 'docs-dist',
