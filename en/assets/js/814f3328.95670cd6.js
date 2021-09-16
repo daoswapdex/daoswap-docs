@@ -1,1 +1,0 @@
-(self.webpackChunkdaoswap_docs=self.webpackChunkdaoswap_docs||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/en/blog/welcome"},{"title":"Hello","permalink":"/en/blog/hello-world"},{"title":"Hola","permalink":"/en/blog/hola"}]}')}}]);
