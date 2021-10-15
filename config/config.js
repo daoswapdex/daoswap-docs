@@ -12,7 +12,7 @@ export default {
   navs: [
     // null, // null 值代表保留约定式生成的导航，只做增量配置
     {
-      title: '极光学院',
+      title: '极光社区',
       path: '/jiguangxueyuan',
     },
   ],
