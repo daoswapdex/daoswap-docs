@@ -1,6 +1,6 @@
 ---
 title: 极光社区
-order: 1
+order: 2
 toc: menu
 nav:
   title: 极光社区

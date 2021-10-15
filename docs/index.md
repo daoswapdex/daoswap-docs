@@ -1,4 +1,6 @@
 ---
+title: Daoswap
+order: 1
 hero:
   title: Daoswap
   desc: 📖 Daoswap Docs
